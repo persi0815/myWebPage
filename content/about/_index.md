@@ -6,8 +6,10 @@ author : "Sam Robbins"
 authorImage : "images/about/profile.jpg"
 ---
 
-Hi! I'm Sam, a second year Computer Science student from Durham University. 
+Hi! I'm yang jiwon, a second year Software student from Korea Aerospace University. 
 I like doing personal projects, which you will find in the portfolio page of this website. 
-My specialties can be found on the homepage, of which most are web development or cyber security.
+My hobby is reading books and writing stories about me. 
 
-I am currently available for part time remote work, but will be looking for full time employment from summer 2021.
+Nowadays i am reading a book 'one-thing'. This book tell us to concentrate in one thing to be the best. I want to be a developer who works to find who I am, regardless of time and place.
+
+Let's cheer up until we all become stars in the universe! Have a good day~
