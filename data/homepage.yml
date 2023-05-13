@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Hi! I’m persi!!
+  title: Hi! I’m persi!!s
 social:
   twitter: ""
   linkedin: sam-robbins-gb
@@ -25,7 +25,7 @@ experience:
   enable: true
   item:
     - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
-      title: init.g
+      title: hackathons staff, Koala member
       company: Google
       duration: November 2019
 hackathons:
