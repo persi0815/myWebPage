@@ -1,30 +1,30 @@
 ---
-title: "Making a new Website!!"
+title: "Who am I?"
 date: 2019-12-31T12:14:34+06:00
-description: "My first blog, introducing my new website"
+description: "My second blog, introducing myself"
 author: "persi(jiwon)"
 type: "post"
 ---
 
-For a long time this website has had a couple of links to contact me, but those days are over.
+### Me and My hobby
 
-Now I have a brand new Hugo website with a custom written theme complete with
+-Name: Ji-won Yang
+-Age: 21 years old
+-Occupation: College student, a storyteller who loves reading books and writing
 
-- A homepage with more social links, and description of my skills
-- An about page with description of who I am
-- A portfolio page to showcase all my projects
-- A blog
+Introduction:
+Ji-won Yang is a 21-year-old college student who loves reading books and writing. She always finds great joy in exploring new knowledge and expressing her thoughts through writing. Books serve as keys that open up new worlds for her, while writing is her creative means of expression.
 
-### Why Hugo?
+Ji-won enjoys reading books from various genres. Whether it's novels, philosophy, history, or science, she finds interest in reading about any topic. Through reading, she seeks to gain new ideas and perspectives, while developing her own thoughts and emotions. She aims to broaden her understanding of the world and shape her own philosophy and values through reading.
 
-The first question is why a _site builder_? I'm competent at web development, why not just write it all myself? The markdown processing makes it much easier to just write words, not having to think about the formatting, and if I'm going to blog often, then I'll need that.
+Furthermore, Ji-won has a passion for writing. She enjoys organizing her experiences, thoughts, and impressions into written form. Whether it's poetry, essays, diary entries, or quotes, she seeks to convey her stories through writing. Writing allows her to organize her emotions and thoughts, communicate with others, and sometimes offer inspiration and comfort to her readers.
 
-Next it gets to why Hugo? why not Jekyll or any of the other vast array of site builders? The answer to that is sadly rather boring, it had a theme I liked the look of, in particular [this theme](https://github.com/themefisher/kross-hugo), and it had an MIT license, so I could publish and tweak it as much as I wanted to.
+Ji-won strives to continuously improve herself through creative activities. She is majoring in English literature in college, acquiring specialized knowledge in writing and literature. She actively seeks feedback by reading stories from other writers and reviews from readers to enhance her own writing.
 
-### Why start blogging?
+As a storyteller who loves both writing and books, Ji-won finds joy in expanding her world, connecting with others, and growing through reading and writing. She participates in small book clubs with her classmates, where they share their thoughts on books and grow together. Additionally, she enjoys sharing her writing online through blogs and social media, engaging in conversations with readers, and inspiring them with her words.
 
-A very good question. For one it would allow me to showcase my skills more than just a portfolio would, not everything fits under the umbrella of a portfolio, but I can blog about whatever I want. Secondly is to act as a reminder of how I do things, if I blog my process when I do technical things, I'll always be able to look back and see how I did it if I ever have to do it again.
+Ji-won nurtures her dream of becoming a writer. Her ultimate goal is to publish her own novels or essays and share them with readers. She remains dedicated to honing her writing skills, actively immersing herself in the process of writing, and participating in workshops and courses related to writing. Through reading and research, she strives to develop her unique writing style across various genres and styles.
 
-### So what can I expect to see in the blog?
+Ji-won appreciates the opportunity to communicate with others through writing. She shares her work through blogs and social media platforms, engaging in conversations with readers to exchange thoughts and emotions. As she grows as a writer, she aspires to offer inspiration and sometimes comfort to her readers through her words.
 
-The current plan is for the vast majority of posts to be technical guides on how to do things, but there might be some variety if I want to blog about events.
+Ji-won is an ever-evolving 21-year-old college student who constantly grows through reading and writing. Her passion and artistic talent provide her with the strength and energy to pursue her dream of inspiring and provoking contemplation in readers through her stories.
