@@ -1,8 +1,7 @@
 ---
-title: "SecondBlog"
-date: 2023-05-13T22:53:20Z
-draft: true
-description: "My Second blog, introducing my hobby"
+title: "Making a new Website!!"
+date: 2019-12-31T12:14:34+06:00
+description: "My first blog, introducing my new website"
 author: "persi(jiwon)"
 type: "post"
 ---
